@@ -4,3 +4,4 @@ return x
 
 
 call(5)
+x=5
