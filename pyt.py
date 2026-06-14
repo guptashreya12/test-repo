@@ -4,3 +4,5 @@ return x
 
 
 call(5)
+print("hello")
+
