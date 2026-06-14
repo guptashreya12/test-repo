@@ -4,4 +4,3 @@ return x
 
 
 call(5)
-x5
